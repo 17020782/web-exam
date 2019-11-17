@@ -1,6 +1,6 @@
 var a0=["tên môn học","mã học phần","ca thi","phòng thi","số lượng","thao tác"];
 
-var a1=[["phát triển ứng dụng web","INT2206","8h-11h","103-G2","40"],["trí tuệ nhân tạo","INT2203","8h-11h","306-GĐ2","60"],["thiết kế giao diên wed","INT2202","7h-9h","206-G2","80"],["truyền thông đa phương tiện","INT2207","8h-10h","308-G2","60"]];
+var a1=[["phát triển ứng dụng web","INT2206","8h-11h","103-G2","80"],["trí tuệ nhân tạo","INT2203","8h-11h","306-GĐ2","60"],["thiết kế giao diên wed","INT2202","7h-9h","206-G2","80"],["truyền thông đa phương tiện","INT2207","8h-10h","308-G2","60"]];
 
 
   //body reference 
